@@ -1,5 +1,5 @@
 variable "abhivar" {
-type =map(any"
+type =map(any)
 default = {
 name = "test"
 
